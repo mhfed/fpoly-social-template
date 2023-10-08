@@ -489,7 +489,7 @@ function App() {
               <div className='iq-navbar-logo d-flex justify-content-between'>
                 <a href='../dashboard/index.html'>
                   <img
-                    src='../assets/images/logo.png'
+                    src='/assets/images/logo.png'
                     className='img-fluid'
                     alt=''
                   />
@@ -566,7 +566,7 @@ function App() {
                               <div className='d-flex align-items-center'>
                                 <img
                                   className='avatar-40 rounded'
-                                  src='../assets/images/user/01.jpg'
+                                  src='/assets/images/user/01.jpg'
                                   alt=''
                                 />
                                 <div className='ms-3'>
@@ -595,7 +595,7 @@ function App() {
                               <div className='d-flex align-items-center'>
                                 <img
                                   className='avatar-40 rounded'
-                                  src='../assets/images/user/02.jpg'
+                                  src='/assets/images/user/02.jpg'
                                   alt=''
                                 />
                                 <div className='ms-3'>
@@ -624,7 +624,7 @@ function App() {
                               <div className='d-flex align-items-center'>
                                 <img
                                   className='avatar-40 rounded'
-                                  src='../assets/images/user/03.jpg'
+                                  src='/assets/images/user/03.jpg'
                                   alt=''
                                 />
                                 <div className='ms-3'>
@@ -653,7 +653,7 @@ function App() {
                               <div className='d-flex align-items-center'>
                                 <img
                                   className='avatar-40 rounded'
-                                  src='../assets/images/user/04.jpg'
+                                  src='/assets/images/user/04.jpg'
                                   alt=''
                                 />
                                 <div className='ms-3'>
@@ -714,7 +714,7 @@ function App() {
                               <div className=''>
                                 <img
                                   className='avatar-40 rounded'
-                                  src='../assets/images/user/01.jpg'
+                                  src='/assets/images/user/01.jpg'
                                   alt=''
                                 />
                               </div>
@@ -734,7 +734,7 @@ function App() {
                               <div className=''>
                                 <img
                                   className='avatar-40 rounded'
-                                  src='../assets/images/user/02.jpg'
+                                  src='/assets/images/user/02.jpg'
                                   alt=''
                                 />
                               </div>
@@ -754,7 +754,7 @@ function App() {
                               <div className=''>
                                 <img
                                   className='avatar-40 rounded'
-                                  src='../assets/images/user/03.jpg'
+                                  src='/assets/images/user/03.jpg'
                                   alt=''
                                 />
                               </div>
@@ -774,7 +774,7 @@ function App() {
                               <div className=''>
                                 <img
                                   className='avatar-40 rounded'
-                                  src='../assets/images/user/04.jpg'
+                                  src='/assets/images/user/04.jpg'
                                   alt=''
                                 />
                               </div>
@@ -821,7 +821,7 @@ function App() {
                               <div className=''>
                                 <img
                                   className='avatar-40 rounded'
-                                  src='../assets/images/user/01.jpg'
+                                  src='/assets/images/user/01.jpg'
                                   alt=''
                                 />
                               </div>
@@ -838,7 +838,7 @@ function App() {
                               <div className=''>
                                 <img
                                   className='avatar-40 rounded'
-                                  src='../assets/images/user/02.jpg'
+                                  src='/assets/images/user/02.jpg'
                                   alt=''
                                 />
                               </div>
@@ -855,7 +855,7 @@ function App() {
                               <div className=''>
                                 <img
                                   className='avatar-40 rounded'
-                                  src='../assets/images/user/03.jpg'
+                                  src='/assets/images/user/03.jpg'
                                   alt=''
                                 />
                               </div>
@@ -872,7 +872,7 @@ function App() {
                               <div className=''>
                                 <img
                                   className='avatar-40 rounded'
-                                  src='../assets/images/user/04.jpg'
+                                  src='/assets/images/user/04.jpg'
                                   alt=''
                                 />
                               </div>
@@ -889,7 +889,7 @@ function App() {
                               <div className=''>
                                 <img
                                   className='avatar-40 rounded'
-                                  src='../assets/images/user/05.jpg'
+                                  src='/assets/images/user/05.jpg'
                                   alt=''
                                 />
                               </div>
@@ -915,7 +915,7 @@ function App() {
                       aria-expanded='false'
                     >
                       <img
-                        src='../assets/images/user/1.jpg'
+                        src='/assets/images/user/1.jpg'
                         className='img-fluid rounded-circle me-3'
                         alt='user'
                       />
@@ -1028,7 +1028,7 @@ function App() {
                     <div className='iq-profile-avatar status-online'>
                       <img
                         className='rounded-circle avatar-50'
-                        src='../assets/images/user/01.jpg'
+                        src='/assets/images/user/01.jpg'
                         alt=''
                       />
                     </div>
@@ -1041,7 +1041,7 @@ function App() {
                     <div className='iq-profile-avatar status-online'>
                       <img
                         className='rounded-circle avatar-50'
-                        src='../assets/images/user/02.jpg'
+                        src='/assets/images/user/02.jpg'
                         alt=''
                       />
                     </div>
@@ -1054,7 +1054,7 @@ function App() {
                     <div className='iq-profile-avatar status-online'>
                       <img
                         className='rounded-circle avatar-50'
-                        src='../assets/images/user/03.jpg'
+                        src='/assets/images/user/03.jpg'
                         alt=''
                       />
                     </div>
@@ -1067,7 +1067,7 @@ function App() {
                     <div className='iq-profile-avatar status-online'>
                       <img
                         className='rounded-circle avatar-50'
-                        src='../assets/images/user/04.jpg'
+                        src='/assets/images/user/04.jpg'
                         alt=''
                       />
                     </div>
@@ -1080,7 +1080,7 @@ function App() {
                     <div className='iq-profile-avatar status-online'>
                       <img
                         className='rounded-circle avatar-50'
-                        src='../assets/images/user/11.jpg'
+                        src='/assets/images/user/11.jpg'
                         alt=''
                       />
                     </div>
@@ -1093,7 +1093,7 @@ function App() {
                     <div className='iq-profile-avatar status-online'>
                       <img
                         className='rounded-circle avatar-50'
-                        src='../assets/images/user/02.jpg'
+                        src='/assets/images/user/02.jpg'
                         alt=''
                       />
                     </div>
@@ -1106,7 +1106,7 @@ function App() {
                     <div className='iq-profile-avatar status-online'>
                       <img
                         className='rounded-circle avatar-50'
-                        src='../assets/images/user/03.jpg'
+                        src='/assets/images/user/03.jpg'
                         alt=''
                       />
                     </div>
@@ -1119,7 +1119,7 @@ function App() {
                     <div className='iq-profile-avatar status-away'>
                       <img
                         className='rounded-circle avatar-50'
-                        src='../assets/images/user/12.jpg'
+                        src='/assets/images/user/12.jpg'
                         alt=''
                       />
                     </div>
@@ -1132,7 +1132,7 @@ function App() {
                     <div className='iq-profile-avatar status-away'>
                       <img
                         className='rounded-circle avatar-50'
-                        src='../assets/images/user/01.jpg'
+                        src='/assets/images/user/01.jpg'
                         alt=''
                       />
                     </div>
@@ -1145,7 +1145,7 @@ function App() {
                     <div className='iq-profile-avatar'>
                       <img
                         className='rounded-circle avatar-50'
-                        src='../assets/images/user/02.jpg'
+                        src='/assets/images/user/02.jpg'
                         alt=''
                       />
                     </div>
@@ -1183,7 +1183,7 @@ function App() {
                       <div className='d-flex align-items-center'>
                         <div className='user-img'>
                           <img
-                            src='../assets/images/user/1.jpg'
+                            src='/assets/images/user/1.jpg'
                             alt='userimg'
                             className='avatar-60 rounded-circle'
                           />
@@ -1207,7 +1207,7 @@ function App() {
                         <li className='me-3 mb-md-0 mb-2'>
                           <a href='#' className='btn btn-soft-primary'>
                             <img
-                              src='../assets/images/small/07.png'
+                              src='/assets/images/small/07.png'
                               alt='icon'
                               className='img-fluid me-2'
                             />
@@ -1217,7 +1217,7 @@ function App() {
                         <li className='me-3 mb-md-0 mb-2'>
                           <a href='#' className='btn btn-soft-primary'>
                             <img
-                              src='../assets/images/small/08.png'
+                              src='/assets/images/small/08.png'
                               alt='icon'
                               className='img-fluid me-2'
                             />
@@ -1227,7 +1227,7 @@ function App() {
                         <li className='me-3'>
                           <a href='#' className='btn btn-soft-primary'>
                             <img
-                              src='../assets/images/small/09.png'
+                              src='/assets/images/small/09.png'
                               alt='icon'
                               className='img-fluid me-2'
                             />
@@ -1321,7 +1321,7 @@ function App() {
                             <div className='d-flex align-items-center'>
                               <div className='user-img'>
                                 <img
-                                  src='../assets/images/user/1.jpg'
+                                  src='/assets/images/user/1.jpg'
                                   alt='userimg'
                                   className='avatar-60 rounded-circle img-fluid'
                                 />
@@ -1344,7 +1344,7 @@ function App() {
                                 <div className='bg-soft-primary rounded p-2 pointer me-3'>
                                   <a href='#'></a>
                                   <img
-                                    src='../assets/images/small/07.png'
+                                    src='/assets/images/small/07.png'
                                     alt='icon'
                                     className='img-fluid'
                                   />
@@ -1355,7 +1355,7 @@ function App() {
                                 <div className='bg-soft-primary rounded p-2 pointer me-3'>
                                   <a href='#'></a>
                                   <img
-                                    src='../assets/images/small/08.png'
+                                    src='/assets/images/small/08.png'
                                     alt='icon'
                                     className='img-fluid'
                                   />
@@ -1366,7 +1366,7 @@ function App() {
                                 <div className='bg-soft-primary rounded p-2 pointer me-3'>
                                   <a href='#'></a>
                                   <img
-                                    src='../assets/images/small/09.png'
+                                    src='/assets/images/small/09.png'
                                     alt='icon'
                                     className='img-fluid'
                                   />
@@ -1377,7 +1377,7 @@ function App() {
                                 <div className='bg-soft-primary rounded p-2 pointer me-3'>
                                   <a href='#'></a>
                                   <img
-                                    src='../assets/images/small/10.png'
+                                    src='/assets/images/small/10.png'
                                     alt='icon'
                                     className='img-fluid'
                                   />
@@ -1388,7 +1388,7 @@ function App() {
                                 <div className='bg-soft-primary rounded p-2 pointer me-3'>
                                   <a href='#'></a>
                                   <img
-                                    src='../assets/images/small/11.png'
+                                    src='/assets/images/small/11.png'
                                     alt='icon'
                                     className='img-fluid'
                                   />
@@ -1399,7 +1399,7 @@ function App() {
                                 <div className='bg-soft-primary rounded p-2 pointer me-3'>
                                   <a href='#'></a>
                                   <img
-                                    src='../assets/images/small/12.png'
+                                    src='/assets/images/small/12.png'
                                     alt='icon'
                                     className='img-fluid'
                                   />
@@ -1410,7 +1410,7 @@ function App() {
                                 <div className='bg-soft-primary rounded p-2 pointer me-3'>
                                   <a href='#'></a>
                                   <img
-                                    src='../assets/images/small/13.png'
+                                    src='/assets/images/small/13.png'
                                     alt='icon'
                                     className='img-fluid'
                                   />
@@ -1421,7 +1421,7 @@ function App() {
                                 <div className='bg-soft-primary rounded p-2 pointer me-3'>
                                   <a href='#'></a>
                                   <img
-                                    src='../assets/images/small/14.png'
+                                    src='/assets/images/small/14.png'
                                     alt='icon'
                                     className='img-fluid'
                                   />
@@ -1435,7 +1435,7 @@ function App() {
                                 <div className='d-flex align-items-center'>
                                   <div className='user-img me-3'>
                                     <img
-                                      src='../assets/images/user/1.jpg'
+                                      src='/assets/images/user/1.jpg'
                                       alt='userimg'
                                       className='avatar-60 rounded-circle img-fluid'
                                     />
@@ -1523,7 +1523,7 @@ function App() {
                           <div className='me-3'>
                             <img
                               className='rounded-circle img-fluid'
-                              src='../assets/images/user/01.jpg'
+                              src='/assets/images/user/01.jpg'
                               alt=''
                             />
                           </div>
@@ -1616,21 +1616,21 @@ function App() {
                         <div className='d-grid grid-rows-2 grid-flow-col gap-3'>
                           <div className='row-span-2 row-span-md-1'>
                             <img
-                              src='../assets/images/page-img/p2.jpg'
+                              src='/assets/images/page-img/p2.jpg'
                               alt='post-image'
                               className='img-fluid rounded w-100'
                             />
                           </div>
                           <div className='row-span-1'>
                             <img
-                              src='../assets/images/page-img/p1.jpg'
+                              src='/assets/images/page-img/p1.jpg'
                               alt='post-image'
                               className='img-fluid rounded w-100'
                             />
                           </div>
                           <div className='row-span-1'>
                             <img
-                              src='../assets/images/page-img/p3.jpg'
+                              src='/assets/images/page-img/p3.jpg'
                               alt='post-image'
                               className='img-fluid rounded w-100'
                             />
@@ -1651,7 +1651,7 @@ function App() {
                                     role='button'
                                   >
                                     <img
-                                      src='../assets/images/icon/01.png'
+                                      src='/assets/images/icon/01.png'
                                       className='img-fluid'
                                       alt=''
                                     />
@@ -1665,7 +1665,7 @@ function App() {
                                       title='Like'
                                     >
                                       <img
-                                        src='../assets/images/icon/01.png'
+                                        src='/assets/images/icon/01.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -1678,7 +1678,7 @@ function App() {
                                       title='Love'
                                     >
                                       <img
-                                        src='../assets/images/icon/02.png'
+                                        src='/assets/images/icon/02.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -1691,7 +1691,7 @@ function App() {
                                       title='Happy'
                                     >
                                       <img
-                                        src='../assets/images/icon/03.png'
+                                        src='/assets/images/icon/03.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -1704,7 +1704,7 @@ function App() {
                                       title='HaHa'
                                     >
                                       <img
-                                        src='../assets/images/icon/04.png'
+                                        src='/assets/images/icon/04.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -1717,7 +1717,7 @@ function App() {
                                       title='Think'
                                     >
                                       <img
-                                        src='../assets/images/icon/05.png'
+                                        src='/assets/images/icon/05.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -1730,7 +1730,7 @@ function App() {
                                       title='Sade'
                                     >
                                       <img
-                                        src='../assets/images/icon/06.png'
+                                        src='/assets/images/icon/06.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -1743,7 +1743,7 @@ function App() {
                                       title='Lovely'
                                     >
                                       <img
-                                        src='../assets/images/icon/07.png'
+                                        src='/assets/images/icon/07.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -1843,7 +1843,7 @@ function App() {
                             <div className='d-flex'>
                               <div className='user-img'>
                                 <img
-                                  src='../assets/images/user/02.jpg'
+                                  src='/assets/images/user/02.jpg'
                                   alt='userimg'
                                   className='avatar-35 rounded-circle img-fluid'
                                 />
@@ -1866,7 +1866,7 @@ function App() {
                             <div className='d-flex'>
                               <div className='user-img'>
                                 <img
-                                  src='../assets/images/user/03.jpg'
+                                  src='/assets/images/user/03.jpg'
                                   alt='userimg'
                                   className='avatar-35 rounded-circle img-fluid'
                                 />
@@ -1919,7 +1919,7 @@ function App() {
                           <div className='me-3'>
                             <img
                               className='rounded-circle img-fluid'
-                              src='../assets/images/user/03.jpg'
+                              src='/assets/images/user/03.jpg'
                               alt=''
                             />
                           </div>
@@ -2013,7 +2013,7 @@ function App() {
                       <div className='user-post'>
                         <a href='javascript:void();'>
                           <img
-                            src='../assets/images/page-img/p4.jpg'
+                            src='/assets/images/page-img/p4.jpg'
                             alt='post-image'
                             className='img-fluid rounded w-100'
                           />
@@ -2033,7 +2033,7 @@ function App() {
                                     role='button'
                                   >
                                     <img
-                                      src='../assets/images/icon/01.png'
+                                      src='/assets/images/icon/01.png'
                                       className='img-fluid'
                                       alt=''
                                     />
@@ -2047,7 +2047,7 @@ function App() {
                                       title='Like'
                                     >
                                       <img
-                                        src='../assets/images/icon/01.png'
+                                        src='/assets/images/icon/01.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2060,7 +2060,7 @@ function App() {
                                       title='Love'
                                     >
                                       <img
-                                        src='../assets/images/icon/02.png'
+                                        src='/assets/images/icon/02.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2073,7 +2073,7 @@ function App() {
                                       title='Happy'
                                     >
                                       <img
-                                        src='../assets/images/icon/03.png'
+                                        src='/assets/images/icon/03.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2086,7 +2086,7 @@ function App() {
                                       title='HaHa'
                                     >
                                       <img
-                                        src='../assets/images/icon/04.png'
+                                        src='/assets/images/icon/04.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2099,7 +2099,7 @@ function App() {
                                       title='Think'
                                     >
                                       <img
-                                        src='../assets/images/icon/05.png'
+                                        src='/assets/images/icon/05.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2112,7 +2112,7 @@ function App() {
                                       title='Sade'
                                     >
                                       <img
-                                        src='../assets/images/icon/06.png'
+                                        src='/assets/images/icon/06.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2125,7 +2125,7 @@ function App() {
                                       title='Lovely'
                                     >
                                       <img
-                                        src='../assets/images/icon/07.png'
+                                        src='/assets/images/icon/07.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2225,7 +2225,7 @@ function App() {
                             <div className='d-flex'>
                               <div className='user-img'>
                                 <img
-                                  src='../assets/images/user/02.jpg'
+                                  src='/assets/images/user/02.jpg'
                                   alt='userimg'
                                   className='avatar-35 rounded-circle img-fluid'
                                 />
@@ -2248,7 +2248,7 @@ function App() {
                             <div className='d-flex'>
                               <div className='user-img'>
                                 <img
-                                  src='../assets/images/user/03.jpg'
+                                  src='/assets/images/user/03.jpg'
                                   alt='userimg'
                                   className='avatar-35 rounded-circle img-fluid'
                                 />
@@ -2301,7 +2301,7 @@ function App() {
                           <div className='me-3'>
                             <img
                               className='rounded-circle img-fluid'
-                              src='../assets/images/user/04.jpg'
+                              src='/assets/images/user/04.jpg'
                               alt=''
                             />
                           </div>
@@ -2402,7 +2402,7 @@ function App() {
                                     role='button'
                                   >
                                     <img
-                                      src='../assets/images/icon/01.png'
+                                      src='/assets/images/icon/01.png'
                                       className='img-fluid'
                                       alt=''
                                     />
@@ -2416,7 +2416,7 @@ function App() {
                                       title='Like'
                                     >
                                       <img
-                                        src='../assets/images/icon/01.png'
+                                        src='/assets/images/icon/01.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2429,7 +2429,7 @@ function App() {
                                       title='Love'
                                     >
                                       <img
-                                        src='../assets/images/icon/02.png'
+                                        src='/assets/images/icon/02.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2442,7 +2442,7 @@ function App() {
                                       title='Happy'
                                     >
                                       <img
-                                        src='../assets/images/icon/03.png'
+                                        src='/assets/images/icon/03.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2455,7 +2455,7 @@ function App() {
                                       title='HaHa'
                                     >
                                       <img
-                                        src='../assets/images/icon/04.png'
+                                        src='/assets/images/icon/04.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2468,7 +2468,7 @@ function App() {
                                       title='Think'
                                     >
                                       <img
-                                        src='../assets/images/icon/05.png'
+                                        src='/assets/images/icon/05.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2481,7 +2481,7 @@ function App() {
                                       title='Sade'
                                     >
                                       <img
-                                        src='../assets/images/icon/06.png'
+                                        src='/assets/images/icon/06.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2494,7 +2494,7 @@ function App() {
                                       title='Lovely'
                                     >
                                       <img
-                                        src='../assets/images/icon/07.png'
+                                        src='/assets/images/icon/07.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2594,7 +2594,7 @@ function App() {
                             <div className='d-flex'>
                               <div className='user-img'>
                                 <img
-                                  src='../assets/images/user/02.jpg'
+                                  src='/assets/images/user/02.jpg'
                                   alt='userimg'
                                   className='avatar-35 rounded-circle img-fluid'
                                 />
@@ -2617,7 +2617,7 @@ function App() {
                             <div className='d-flex'>
                               <div className='user-img'>
                                 <img
-                                  src='../assets/images/user/03.jpg'
+                                  src='/assets/images/user/03.jpg'
                                   alt='userimg'
                                   className='avatar-35 rounded-circle img-fluid'
                                 />
@@ -2670,7 +2670,7 @@ function App() {
                           <div className='me-3'>
                             <img
                               className='rounded-circle img-fluid avatar-60'
-                              src='../assets/images/user/1.jpg'
+                              src='/assets/images/user/1.jpg'
                               alt=''
                             />
                           </div>
@@ -2752,7 +2752,7 @@ function App() {
                       <div className='user-post text-center'>
                         <a href='javascript:void();'>
                           <img
-                            src='../assets/images/page-img/p5.jpg'
+                            src='/assets/images/page-img/p5.jpg'
                             alt='post-image'
                             className='img-fluid rounded w-100 mt-3'
                           />
@@ -2772,7 +2772,7 @@ function App() {
                                     role='button'
                                   >
                                     <img
-                                      src='../assets/images/icon/01.png'
+                                      src='/assets/images/icon/01.png'
                                       className='img-fluid'
                                       alt=''
                                     />
@@ -2786,7 +2786,7 @@ function App() {
                                       title='Like'
                                     >
                                       <img
-                                        src='../assets/images/icon/01.png'
+                                        src='/assets/images/icon/01.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2799,7 +2799,7 @@ function App() {
                                       title='Love'
                                     >
                                       <img
-                                        src='../assets/images/icon/02.png'
+                                        src='/assets/images/icon/02.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2812,7 +2812,7 @@ function App() {
                                       title='Happy'
                                     >
                                       <img
-                                        src='../assets/images/icon/03.png'
+                                        src='/assets/images/icon/03.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2825,7 +2825,7 @@ function App() {
                                       title='HaHa'
                                     >
                                       <img
-                                        src='../assets/images/icon/04.png'
+                                        src='/assets/images/icon/04.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2838,7 +2838,7 @@ function App() {
                                       title='Think'
                                     >
                                       <img
-                                        src='../assets/images/icon/05.png'
+                                        src='/assets/images/icon/05.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2851,7 +2851,7 @@ function App() {
                                       title='Sade'
                                     >
                                       <img
-                                        src='../assets/images/icon/06.png'
+                                        src='/assets/images/icon/06.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2864,7 +2864,7 @@ function App() {
                                       title='Lovely'
                                     >
                                       <img
-                                        src='../assets/images/icon/07.png'
+                                        src='/assets/images/icon/07.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -2964,7 +2964,7 @@ function App() {
                             <div className='d-flex'>
                               <div className='user-img'>
                                 <img
-                                  src='../assets/images/user/02.jpg'
+                                  src='/assets/images/user/02.jpg'
                                   alt='userimg'
                                   className='avatar-35 rounded-circle img-fluid'
                                 />
@@ -2987,7 +2987,7 @@ function App() {
                             <div className='d-flex'>
                               <div className='user-img'>
                                 <img
-                                  src='../assets/images/user/03.jpg'
+                                  src='/assets/images/user/03.jpg'
                                   alt='userimg'
                                   className='avatar-35 rounded-circle img-fluid'
                                 />
@@ -3040,7 +3040,7 @@ function App() {
                           <div className='me-3'>
                             <img
                               className='rounded-circle img-fluid'
-                              src='../assets/images/user/02.jpg'
+                              src='/assets/images/user/02.jpg'
                               alt=''
                             />
                           </div>
@@ -3149,7 +3149,7 @@ function App() {
                                     role='button'
                                   >
                                     <img
-                                      src='../assets/images/icon/01.png'
+                                      src='/assets/images/icon/01.png'
                                       className='img-fluid'
                                       alt=''
                                     />
@@ -3163,7 +3163,7 @@ function App() {
                                       title='Like'
                                     >
                                       <img
-                                        src='../assets/images/icon/01.png'
+                                        src='/assets/images/icon/01.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -3176,7 +3176,7 @@ function App() {
                                       title='Love'
                                     >
                                       <img
-                                        src='../assets/images/icon/02.png'
+                                        src='/assets/images/icon/02.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -3189,7 +3189,7 @@ function App() {
                                       title='Happy'
                                     >
                                       <img
-                                        src='../assets/images/icon/03.png'
+                                        src='/assets/images/icon/03.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -3202,7 +3202,7 @@ function App() {
                                       title='HaHa'
                                     >
                                       <img
-                                        src='../assets/images/icon/04.png'
+                                        src='/assets/images/icon/04.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -3215,7 +3215,7 @@ function App() {
                                       title='Think'
                                     >
                                       <img
-                                        src='../assets/images/icon/05.png'
+                                        src='/assets/images/icon/05.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -3228,7 +3228,7 @@ function App() {
                                       title='Sade'
                                     >
                                       <img
-                                        src='../assets/images/icon/06.png'
+                                        src='/assets/images/icon/06.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -3241,7 +3241,7 @@ function App() {
                                       title='Lovely'
                                     >
                                       <img
-                                        src='../assets/images/icon/07.png'
+                                        src='/assets/images/icon/07.png'
                                         className='img-fluid'
                                         alt=''
                                       />
@@ -3341,7 +3341,7 @@ function App() {
                             <div className='d-flex flex-wrap'>
                               <div className='user-img'>
                                 <img
-                                  src='../assets/images/user/02.jpg'
+                                  src='/assets/images/user/02.jpg'
                                   alt='userimg'
                                   className='avatar-35 rounded-circle img-fluid'
                                 />
@@ -3364,7 +3364,7 @@ function App() {
                             <div className='d-flex flex-wrap'>
                               <div className='user-img'>
                                 <img
-                                  src='../assets/images/user/03.jpg'
+                                  src='/assets/images/user/03.jpg'
                                   alt='userimg'
                                   className='avatar-35 rounded-circle img-fluid'
                                 />
@@ -3428,7 +3428,7 @@ function App() {
                       </li>
                       <li className='d-flex mb-3 align-items-center active'>
                         <img
-                          src='../assets/images/page-img/s2.jpg'
+                          src='/assets/images/page-img/s2.jpg'
                           alt='story-img'
                           className='rounded-circle img-fluid'
                         />
@@ -3439,7 +3439,7 @@ function App() {
                       </li>
                       <li className='d-flex mb-3 align-items-center'>
                         <img
-                          src='../assets/images/page-img/s3.jpg'
+                          src='/assets/images/page-img/s3.jpg'
                           alt='story-img'
                           className='rounded-circle img-fluid'
                         />
@@ -3450,7 +3450,7 @@ function App() {
                       </li>
                       <li className='d-flex align-items-center'>
                         <img
-                          src='../assets/images/page-img/s1.jpg'
+                          src='/assets/images/page-img/s1.jpg'
                           alt='story-img'
                           className='rounded-circle img-fluid'
                         />
@@ -3509,7 +3509,7 @@ function App() {
                     <ul className='media-story list-inline m-0 p-0'>
                       <li className='d-flex mb-4 align-items-center'>
                         <img
-                          src='../assets/images/page-img/s4.jpg'
+                          src='/assets/images/page-img/s4.jpg'
                           alt='story-img'
                           className='rounded-circle img-fluid'
                         />
@@ -3520,7 +3520,7 @@ function App() {
                       </li>
                       <li className='d-flex align-items-center'>
                         <img
-                          src='../assets/images/page-img/s5.jpg'
+                          src='/assets/images/page-img/s5.jpg'
                           alt='story-img'
                           className='rounded-circle img-fluid'
                         />
@@ -3542,7 +3542,7 @@ function App() {
                     <ul className='media-story list-inline m-0 p-0'>
                       <li className='d-flex mb-4 align-items-center'>
                         <img
-                          src='../assets/images/user/01.jpg'
+                          src='/assets/images/user/01.jpg'
                           alt='story-img'
                           className='rounded-circle img-fluid'
                         />
@@ -3553,7 +3553,7 @@ function App() {
                       </li>
                       <li className='d-flex align-items-center'>
                         <img
-                          src='../assets/images/user/02.jpg'
+                          src='/assets/images/user/02.jpg'
                           alt='story-img'
                           className='rounded-circle img-fluid'
                         />
@@ -3610,7 +3610,7 @@ function App() {
                       <li className='mb-3'>
                         <div className='d-flex align-items-center mb-3'>
                           <img
-                            src='../assets/images/page-img/42.png'
+                            src='/assets/images/page-img/42.png'
                             alt='story-img'
                             className='rounded-circle img-fluid avatar-50'
                           />
@@ -3620,7 +3620,7 @@ function App() {
                           </div>
                         </div>
                         <img
-                          src='../assets/images/small/img-1.jpg'
+                          src='/assets/images/small/img-1.jpg'
                           className='img-fluid rounded'
                           alt='Responsive image'
                         />
@@ -3633,7 +3633,7 @@ function App() {
                       <li className=''>
                         <div className='d-flex align-items-center mb-3'>
                           <img
-                            src='../assets/images/page-img/42.png'
+                            src='/assets/images/page-img/42.png'
                             alt='story-img'
                             className='rounded-circle img-fluid avatar-50'
                           />
@@ -3643,7 +3643,7 @@ function App() {
                           </div>
                         </div>
                         <img
-                          src='../assets/images/small/img-2.jpg'
+                          src='/assets/images/small/img-2.jpg'
                           className='img-fluid rounded'
                           alt='Responsive image'
                         />
@@ -3659,7 +3659,7 @@ function App() {
               </div>
               <div className='col-sm-12 text-center'>
                 <img
-                  src='../assets/images/page-img/page-load-loader.gif'
+                  src='/assets/images/page-img/page-load-loader.gif'
                   alt='loader'
                   style={{ height: '100px' }}
                 />
